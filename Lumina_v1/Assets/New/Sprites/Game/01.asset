@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0ee8f661872f2943bc1130eba5a06f5, type: 3}
+  m_Name: 01
+  m_EditorClassIdentifier: 
+  towerPrefabs:
+  - id: 0
+    towerName: 
+    prefab: {fileID: 2906740582848030118, guid: 5af190b3b4cf36b44899009b062e3ff6,
+      type: 3}
+  - id: 1
+    towerName: 
+    prefab: {fileID: 2906740582848030118, guid: fcafdc0840bb3314ebb79157ff1c7d16,
+      type: 3}
+  - id: 2
+    towerName: 
+    prefab: {fileID: 2906740582848030118, guid: 0ec39c292f681c9458c20e023365dfca,
+      type: 3}
+  - id: 3
+    towerName: 
+    prefab: {fileID: 7534034251905904437, guid: f0fea8418a065be4b9a3c5d0b7701e59,
+      type: 3}
+  - id: 4
+    towerName: 
+    prefab: {fileID: 2700883616297818633, guid: c1fc648203bcfa341b4c2f109f49652e,
+      type: 3}
+  - id: 5
+    towerName: 
+    prefab: {fileID: 2906740582848030118, guid: c1adcef6643576f4cbaf59f6485dde30,
+      type: 3}

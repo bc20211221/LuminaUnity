@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8035d42cdf243864faadd518977c9192
+  - enabled: 1
+    path: Assets/Scenes/MusicSelect.unity
+    guid: 26410df03519c854abcdf9c60b343e2a
+  - enabled: 1
+    path: Assets/Scenes/Gameori.unity
+    guid: 26a949407d0c2374ba5d192c3b56d89b
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 80560ae7e52fe0e4e8d5fe574f3d59a5
+  - enabled: 1
+    path: Assets/Scenes/NoteEditor.unity
+    guid: 4076ed2a91377354ca058dc758c05458
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 03c4a648dff01f644aa19a674787d7bb
+  - enabled: 1
+    path: Assets/New/Scenes/CG.unity
+    guid: 32d3ad1a35054a443ab753b7842d1fc4
+  - enabled: 1
+    path: Assets/New/Scenes/LevelEX.unity
+    guid: 62f623299a62c0a49b9f8cfa9289e8bc
+  - enabled: 1
+    path: Assets/New/Scenes/Level03.unity
+    guid: 1ffdd3ce91e44e74b807c8b088c38352
+  - enabled: 1
+    path: Assets/New/Scenes/Level02.unity
+    guid: 5b13ee3dbec9887459d6702d95c9c3fc
+  - enabled: 1
+    path: Assets/New/Scenes/Level01.unity
+    guid: 6e04c3c2312c7794fa8b6bffdda39ef9
+  - enabled: 1
+    path: Assets/New/Scenes/CharaSelect02.unity
+    guid: 53b1d8a102cfd0441b4ff69e0ccedff6
+  - enabled: 1
+    path: Assets/New/Scenes/CharaSelect03.unity
+    guid: 2d1cc99c52204c840ae697c7e2a7f0de
+  - enabled: 1
+    path: Assets/New/Scenes/CharaSelectEX.unity
+    guid: 35e2e34afc2f02047988c376edc2813f
+  - enabled: 1
+    path: Assets/New/Scenes/Leading.unity
+    guid: fec7012c1d1617540bc644f45751d954
+  - enabled: 1
+    path: Assets/New/Scenes/CharaSelect01.unity
+    guid: 3b03efe1bdcbd544aac18fa910b59c64
+  - enabled: 1
+    path: Assets/New/Scenes/LevelSelect.unity
+    guid: 99cb9560169bb924c9f12bbe87e02c65
+  m_configObjects: {}
